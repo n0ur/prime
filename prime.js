@@ -116,3 +116,5 @@ function fastPrime(n, times) {
 console.log(fastPrime(199, 30))
 console.log(fastPrime(1999, 30))
 console.log(fastPrime(19999, 30))
+
+
